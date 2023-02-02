@@ -12,3 +12,5 @@ git commit  -m "message"  ----------> para subir el Archivo al repositorio / (-m
                                       buena practica 
 git log name.txt          ----------> muestra el historial de los cambios realizados y quien los realizo
 git show name.txt         ----------> muestra exactamente que fue lo que se cambio
+
+git diff commit_codigo1 commit_codigo2  -------> para comparar los cambios realizados 
