@@ -14,3 +14,8 @@ git log name.txt          ----------> muestra el historial de los cambios realiz
 git show name.txt         ----------> muestra exactamente que fue lo que se cambio
 
 git diff commit_codigo1 commit_codigo2  -------> para comparar los cambios realizados 
+
+git checkout commit_codigo name.txt  ----------> me trae el archivo en la version que le expecifique en el commit_codigo
+                                                 es decir, la version que yo este llamando (antigua)
+
+git checkout master name.txt  --------> Me trae la version mas reciente del archivo, el ultimo cambio 
