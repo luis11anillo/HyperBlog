@@ -1,0 +1,11 @@
+comandos CMD: 
+
+mkdir Nombre_carpeta  ---> para CREAR una carpeta 
+
+touch Nombre_del_archivo.txt  --> para CREAR un archivo 
+
+cat Nombre_del_archivo.txt --> para ver lo que esta dentro de el archivo en el cmd
+
+history ---> puedo VER todos los comandos que he usado 
+
+rm Nombre_del_archivo.txt ---> para BORRAR archivos 

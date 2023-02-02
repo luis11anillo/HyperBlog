@@ -1,0 +1,11 @@
+Archivo de muestra 2 creado desde visual code 
+
+Archivo plano.
+
+
+
+git status                ----------> revisamos el estado del git en la carpeta 
+git add name.txt          ----------> agg el Archivo a git 
+git rm --cached name.txt  ----------> sacamos el Archivo del estado de agregado a git 
+git commit  -m "message"  ----------> para subir el Archivo al repositorio / (-m "message") se utiliza como 
+                                      buena practica 
