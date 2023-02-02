@@ -2,6 +2,7 @@ Archivo de muestra 2 creado desde visual code
 
 Archivo plano.
 
+complementos de comando CMD:
 
 
 git status                ----------> revisamos el estado del git en la carpeta 
