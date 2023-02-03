@@ -7,13 +7,16 @@ body
 
 .cabecera 
 {
-    background-color: royalblue;
+    background-color: red;
     width: auto;
+    
     font-family: 'Gill Sans';
     color: white;
     font-size: medium;
     font-weight: bold;
     margin: auto;
+    border-radius: 20px;
+
 }
 
 .container 
