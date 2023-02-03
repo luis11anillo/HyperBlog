@@ -9,21 +9,24 @@ body
 {
     background-color: red;
     width: auto;
-    
     font-family: 'Gill Sans';
     color: white;
     font-size: medium;
     font-weight: bold;
-    margin: auto;
-    border-radius: 20px;
-
+    border-radius: 15px 15px 0 0 ;
+    height: 30px;
 }
 
 .container 
 {
     width: 50%;
     margin: auto;
-    padding: 1rem;
+    padding: 0;
     background-color: aquamarine;
     border-radius: 1rem;
+}
+
+.post
+{
+    padding-bottom: 10px;
 }
