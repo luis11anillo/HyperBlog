@@ -5,14 +5,27 @@ body
     font-family: monospace;
 }
 
+.cabecera 
+{
+    background-color: red;
+    width: auto;
+    font-family: 'Gill Sans';
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 15px 15px 0 0 ;
+    height: 30px;
+}
+
 .container 
 {
     width: 50%;
     margin: auto;
-    padding: 1rem;
+    padding: 0;
     background-color: aquamarine;
     border-radius: 1rem;
 }
+
 
 .pmaster 
 {
@@ -22,4 +35,9 @@ body
     border-radius: 20px;
     height: 20px;
     margin-bottom: 0px;
+}
+
+.post
+{
+    padding-bottom: 10px;
 }
