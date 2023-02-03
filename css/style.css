@@ -5,6 +5,17 @@ body
     font-family: monospace;
 }
 
+.cabecera 
+{
+    background-color: royalblue;
+    width: auto;
+    font-family: 'Gill Sans';
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+    margin: auto;
+}
+
 .container 
 {
     width: 50%;
