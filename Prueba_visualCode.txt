@@ -10,6 +10,10 @@ git add name.txt          ----------> agg el Archivo a git
 git rm --cached name.txt  ----------> sacamos el Archivo del estado de agregado a git 
 git commit  -m "message"  ----------> para subir el Archivo al repositorio / (-m "message") se utiliza como 
                                       buena practica 
+git commit  -am "message"  ---------> es un comando mas completo del commit 
+                                      hago commit, (a) agg los cambios al git y (m) escribo el mensaje
+
+
 git log name.txt          ----------> muestra el historial de los cambios realizados y quien los realizo
 git show name.txt         ----------> muestra exactamente que fue lo que se cambio
 
@@ -19,3 +23,7 @@ git checkout commit_codigo name.txt  ----------> me trae el archivo en la versio
                                                  es decir, la version que yo este llamando (antigua)
 
 git checkout master name.txt  --------> Me trae la version mas reciente del archivo, el ultimo cambio 
+
+git checkout branch_name  -----------> pasa de una rama a otra (master, cabecera etc)
+
+git branch name           -----------> creo una rama  
