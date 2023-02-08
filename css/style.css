@@ -53,15 +53,17 @@ body
 .piecera
 {
     background-color: blue;
-    color: black;
+    color: white;
     width: auto;
     border-radius: 0 0 20px 20px;
     height: auto;
+    padding-bottom: 10px;
 }
 
 #Footer
 {
     margin: 5px;
+    color: white;
 }
 
 #pf 
